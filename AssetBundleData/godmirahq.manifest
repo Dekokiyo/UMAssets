@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4029817972
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 24de0b3afb1fe76ee26d3dfd620a377c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 309e6c33e030667578648b07e5f23abb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 68
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/GodMiraHQ/GodMiraHQ.prefab
+- Assets/Assets/GodMiraHQ/DropShip.prefab
+Dependencies: []

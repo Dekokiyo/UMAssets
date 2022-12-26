@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3023367851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a98392fc581273ac251e353b78a60ef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/Buttons/HorseModeButtonOn.png
+- Assets/Assets/Buttons/JackalSidekickButton.png
+- Assets/Assets/Buttons/ZoomIn.png
+- Assets/Assets/Buttons/AltruistReviveButton.png
+- Assets/Assets/Buttons/EngineerRepairButton.png
+- Assets/Assets/Buttons/TeleporterTeleportButton.png
+- Assets/Assets/Buttons/MeetingButton.png
+- Assets/Assets/Buttons/ZoomOut.png
+- Assets/Assets/Buttons/CreditsButton.png
+- Assets/Assets/Buttons/UnderTakerMoveButton.png
+- Assets/Assets/Buttons/LighterButton.png
+- Assets/Assets/Buttons/HorseModeButtonOff.png
+- Assets/Assets/Buttons/ArsonistIgnite.png
+- Assets/Assets/Buttons/ArsonistDouse.png
+Dependencies: []

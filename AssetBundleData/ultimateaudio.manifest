@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1214477748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 788332ccdd9744cbb7f8c4a4de0ac65c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Assets/Audio/Teleport.mp3
+- Assets/Assets/Audio/UI_Hover.wav
+- Assets/Assets/Audio/JesterWin.wav
+- Assets/Assets/Audio/UI_Select.wav
+- Assets/Assets/Audio/Bomb.mp3
+- Assets/Assets/Audio/EveryoneLose.wav
+Dependencies: []

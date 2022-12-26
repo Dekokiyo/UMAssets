@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 751425380
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ultimateaudio
+      Dependencies: {}
+    Info_1:
+      Name: ultimatesprite
+      Dependencies: {}
+    Info_2:
+      Name: ultimatebutton
+      Dependencies: {}
+    Info_3:
+      Name: godmirahq
+      Dependencies: {}
+    Info_4:
+      Name: ultimatemap
+      Dependencies: {}
